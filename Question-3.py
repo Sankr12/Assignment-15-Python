@@ -4,4 +4,4 @@
 str1 = "Hello Learners"
 
 # Now print the string using slice syntax
-print("\n",str1[2:6],"\n")
+print("\n",str1[2:5],"\n")

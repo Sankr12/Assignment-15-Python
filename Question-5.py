@@ -7,3 +7,7 @@ for i in string:
     b=b+1
 
 print("\nCharacters in {}:".format(string),b,"\n")
+
+
+# we can do this also 
+print(len(string))

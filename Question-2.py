@@ -4,4 +4,4 @@
 str = 'iNeuron'
 
 # Now print the string using slicing 
-print("\n",str[:6],"\n")
+print("\n",str[:5],"\n")

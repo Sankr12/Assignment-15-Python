@@ -2,7 +2,7 @@
 
 string = input("Enter a string: ")
 
-if string.isdigit():
-    print(f"The '{string}' contains digit only")
-else:
-    print(f"The '{string}' doesn't contains digit only")
+print(string.isdigit())     # Here it represents (0-9) only and nothing else
+print(string.isnumeric())   #It represents everthing based on digits like symbols 
+
+# For understanding enter this in input ½ and see the answer
